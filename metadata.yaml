@@ -1,0 +1,17 @@
+# DXP component metadata file
+# For more information, please see:
+# https://sap.live.dxp.k8s.ondemand.com/projects/dxp/documentation/Getting-started/Component-Metadata
+
+kind: Component
+metadata:
+  displayName: dxp-test-component
+  description: my component description
+  labels:
+    language: # java|typescript|golang
+  tags:
+    # - Tag 1
+    # - Tag 2
+spec:
+  type:
+    name: # ui|microservice|operator|doc|cli
+    lifecycle: # experimental|production|deprecated.
