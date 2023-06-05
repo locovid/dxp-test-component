@@ -4,8 +4,8 @@
 
 kind: Component
 metadata:
-  displayName: new display name custom 
-  description: my component description
+  displayName: new display name custom 0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+  description: my component description 0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
   labels:
     language: # java|typescript|golang
   tags:
