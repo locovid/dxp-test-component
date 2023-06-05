@@ -4,7 +4,7 @@
 
 kind: Component
 metadata:
-  displayName: dxp-test-component
+  displayName: new display name custom 
   description: my component description
   labels:
     language: # java|typescript|golang
