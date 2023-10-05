@@ -1,6 +1,6 @@
 # DXP component metadata file
 # For more information, please see:
-# https://sap.live.dxp.k8s.ondemand.com/projects/dxp/documentation/Getting-started/Component-Metadata
+# https://portal.hyperspace.tools.sap/projects/dxp/documentation/Getting-started/Component-Metadata
 
 kind: Component
 metadata:
